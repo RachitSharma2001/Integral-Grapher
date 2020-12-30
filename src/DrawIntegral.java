@@ -46,7 +46,7 @@ public class DrawIntegral extends Applet{
 			}
 			count++;
 			//if(((int) x-250) % 1 == 0) System.out.println(x + " " + y);
-		}
+		}  
 		
 		y = maxY/2;
 		for(double x = maxX/2; x < maxX; x-=dx){
